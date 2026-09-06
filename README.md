@@ -4,7 +4,7 @@
 ⚛️ Currently working with React, Next.js, and Node.js
 🌱 Always learning new tools and best practices in the JS ecosystem
 🤝 Open to collaborating on interesting frontend & full-stack projects
-📫 Reach me on GitHub — feel free to explore my repos and connect!
+📫 Reach me on GitHub — feel free to explore my repos and connect with me!
 🛠️ Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> </p>
 📊 GitHub Stats
